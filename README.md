@@ -22,3 +22,4 @@ THEN I find a concise, descriptive title
 
 # Mock-Up
 
+![Header:Hero Mock-Up](https://user-images.githubusercontent.com/88792082/164986737-40fa6c9b-0abc-44fe-8ee4-bf96a4ab92a3.png)
