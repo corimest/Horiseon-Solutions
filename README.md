@@ -22,5 +22,5 @@ THEN I find a concise, descriptive title
 
 # Mock-Up
 
-![Hero Mock] (Header:Hero Mock-Up.png)
-![Content Mock] (Content Mock-Up.png)
+![Hero Mock](assets/images/Header:Hero Mock-Up.png)
+![Content Mock](assets/images/Content Mock-Up.png)
